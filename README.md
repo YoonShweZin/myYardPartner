@@ -1,0 +1,1 @@
+This is the Information Systems Engineering - Master Subject. The course is mostly focus on Requirement Analysis (functional and non functional), Requirement Prioritisation, System Modelling (UML, usecase, activity diagram), Software Deveploplemt lifecycles.
