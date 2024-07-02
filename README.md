@@ -1,1 +1,2 @@
 This is the Information Systems Engineering - Master Subject. The course is mostly focus on Requirement Analysis (functional and non functional), Requirement Prioritisation, System Modelling (UML, usecase, activity diagram), Software Deveploplemt lifecycles.
+Our “My Yard Partner” service aims to connect community members who have gardening skills and spare time (Volunteers) with local elderly neighbours (Clients) who would appreciate assistance in their gardens and a friendly chat.
